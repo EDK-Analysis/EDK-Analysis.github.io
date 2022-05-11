@@ -8,9 +8,9 @@ profile:
   align: right
   image: Picture1.jpg
   address: >
-    <p>584-2</p>
+<!--     <p>584-2</p>
     <p>Soda Hall, UC Berkeley</p>
-    <p>Berkeley, CA, USA 94720</p>
+    <p>Berkeley, CA, USA 94720</p> -->
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
