@@ -6,7 +6,7 @@ description: Ph.D. Physics, Columbia University 2018 (He/Him)
 
 profile:
   align: right
-  image: Picture1.jpg
+  image: profile_pic.jpg
   address: >
     <p>Advanced Light Source, Lawrence Berkeley National Lab</p>
     <p>Berkeley, CA, USA 94720</p>
