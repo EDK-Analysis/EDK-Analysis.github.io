@@ -22,4 +22,4 @@ Formerly, I worked as a postdoc for Dr. Xiaoyi Zhang at the [Advanced Photon Sou
 
 I am currently seeking collaborators who focus on synthesis and characterization of transition metal oxide thin films, with an emphasis on combinatorial techniques. Please feel free to reach out via **email** (eli dot kinigstein at lbl dot gov) if you’d like to schedule a meeting.
 
-**[CV](https://drive.google.com/file/d/1ydgq7Y9RDOaJnAzTut-LI-6A8geh9QUX/view?usp=sharing)** (May 2022)
+**[CV](https://drive.google.com/file/d/1ydgq7Y9RDOaJnAzTut-LI-6A8geh9QUX/view?usp=sharing)**
