@@ -61,6 +61,8 @@ contact_note: >
 google_analytics: # G-C3FJ0T16S6 # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
+google_site_verification: google708410c6e98240aa.html
+
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
@@ -162,6 +164,7 @@ scholar:
 # -----------------------------------------------------------------------------
 
 enable_google_analytics:    true
+enable_google_verification: true # enables google site verification 
 enable_panelbear_analytics: false
 enable_mansory:             true
 enable_math:                true
